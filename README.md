@@ -1,8 +1,8 @@
-# Awesome Stencil [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
+# Awesome Stencil [![Awesome](https://awesome.re/badge-flat2.svg)][0] [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
 
 **A curated list of awesome [Stencil](https://stenciljs.com/) resources, libraries, tools and applications**
 
-Inspired by the [awesome](https://awesome.re) list. Feel free to improve this list by [contributing](https://github.com/stencil-community/awesome-stencil/blob/master/contributing.md)!
+Inspired by the [awesome][0] list. Feel free to improve this list by [contributing](https://github.com/stencil-community/awesome-stencil/blob/master/contributing.md)!
 
 <!--lint disable list-item-indent-->
 
@@ -57,3 +57,5 @@ Awesome Design Systems build with StencilJS.
 - [stencil-ionic-starter](https://github.com/stencil-community/stencil-ionic-starter) - Ionic PWA starter with tabs layout and routes.
 
 [Back to top](#contents)
+
+[0]: https://awesome.re
