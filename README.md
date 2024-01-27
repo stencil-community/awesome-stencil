@@ -11,7 +11,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [Stencil Ecosystem](#stencil-ecosystem)
   - [Documentation](#documentation)
   - [Community](#community)
-- [Design systems](#design--systems)
+- [Design Systems](#design--systems)
 - [Plugins](#plugins)
 - [Starter Templates](#starter--templates)
 
