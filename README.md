@@ -1,4 +1,4 @@
-# Awesome Stencil [![Awesome](https://awesome.re/badge-flat2.svg)][0] [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
+# Awesome Stencil [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
 
 **A curated list of awesome [Stencil](https://stenciljs.com/) resources, libraries, tools and applications**
 
