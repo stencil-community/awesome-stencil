@@ -1,4 +1,4 @@
-# Awesome Stencil [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
+# Awesome Stencil [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Test](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml/badge.svg)](https://github.com/stencil-community/awesome-stencil/actions/workflows/test.yaml)
 
 **A curated list of awesome [Stencil](https://stenciljs.com/) resources, libraries, tools and applications**
 
@@ -11,9 +11,9 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [Stencil Ecosystem](#stencil-ecosystem)
   - [Documentation](#documentation)
   - [Community](#community)
-- [Design Systems](#design--systems)
+- [Design Systems](#design-systems)
 - [Plugins](#plugins)
-- [Starter Templates](#starter--templates)
+- [Starter Templates](#starter-templates)
 
 <!--lint disable list-item-indent-->
 
