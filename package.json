@@ -1,0 +1,27 @@
+{
+  "name": "awesome-stencil",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Stencil resources, libraries and tools",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stencil-community/awesome-stencil.git"
+  },
+  "keywords": [
+    "awesome",
+    "stencil",
+    "ionic"
+  ],
+  "author": "Christian Bromann <christian.bromann@outsystems.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stencil-community/awesome-stencil/issues"
+  },
+  "homepage": "https://github.com/stencil-community/awesome-stencil#readme",
+  "devDependencies": {
+    "awesome-lint": "^1.1.0"
+  }
+}
