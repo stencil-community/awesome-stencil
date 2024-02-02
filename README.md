@@ -40,6 +40,7 @@ Awesome Design Systems build with StencilJS.
 - [Duet Design System](https://github.com/duetds) - Duet provides a set of organized tools, patterns and practices that work as the foundation for LocalTapiola and Turva digital products and experiences.
 - [Scale](https://github.com/telekom/scale) - Scale is the digital design system for Telekom products and experiences.
 - [Porsche Design System](https://github.com/porsche-design-system/porsche-design-system) - Find all the fundamental UXI guidelines and pattern-based web components to build brand-driven, consistent and intuitive designs for digital Porsche products.
+- [Web Social Share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks.
 
 ## Plugins
 
