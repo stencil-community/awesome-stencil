@@ -12,6 +12,7 @@ Inspired by the [awesome][0] list. Feel free to improve this list by [contributi
   - [Documentation](#documentation)
   - [Community](#community)
 - [Design Systems](#design-systems)
+- [Components built with Stencil](#components-built-with-stencil)
 - [Plugins](#plugins)
 - [Starter Templates](#starter-templates)
 
@@ -41,6 +42,10 @@ Awesome Design Systems build with StencilJS.
 - [Scale](https://github.com/telekom/scale) - Scale is the digital design system for Telekom products and experiences.
 - [Porsche Design System](https://github.com/porsche-design-system/porsche-design-system) - Find all the fundamental UXI guidelines and pattern-based web components to build brand-driven, consistent and intuitive designs for digital Porsche products.
 - [Web Social Share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks.
+
+## Components built with Stencil
+
+- [Image Cropper Component](https://github.com/tony-xlh/image-cropper-component) - An image cropper web component that allows users to crop a rectangle or a 4-point polygon.
 
 ## Plugins
 
