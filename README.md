@@ -50,7 +50,7 @@ Awesome Design Systems build with StencilJS.
 - [Infineon Design System](https://github.com/Infineon/infineon-design-system-stencil) - As part of the Infineon brand guidelines, the Infineon Digital Design System supports designers, developers and project managers to build user interfaces faster and better – with the ultimate goal of creating a coherent and optimal user journey across all internal and external Infineon digital touchpoints.
 - [Klevu’s brand new SDK](https://github.com/klevultd/frontend-sdk) - Monorepository for Klevu headless.
 - [SIX UI Library](https://github.com/six-group/six-webcomponents) - Ready to use Web Components in alignment with the SIX Corporate Styleguide.
-- [Swisscom SDX](https://sdx.swisscom.com/) - the design system of the leading telecom provider in Switzerland, called "Swisscom Design eXperience".
+- [Swisscom Digitial eXperience](https://sdx.swisscom.com/) - the design system of the leading telecom provider in Switzerland, called "Swisscom Design eXperience".
 
 ## UI Libraries
 
