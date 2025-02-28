@@ -82,6 +82,7 @@ Awesome Design Systems build with StencilJS.
 - [stencil-helmet](https://github.com/stencil-community/stencil-helmet) - Declaratively update the `<head>` from a Stencil app.
 - [stencil-router](https://github.com/stencil-community/stencil-router) - A simple router for Stencil apps and sites.
 - [stencil-tailwind-plugin](https://github.com/Poimen/stencil-tailwind-plugin) - Plugin for using Tailwindcss with StencilJS.
+- [stencil-web-types](https://github.com/stencil-community/stencil-web-types) - Plugin for generating web types for better Intellisense in JetBrains IDEs.
 
 ## Starter Templates
 
