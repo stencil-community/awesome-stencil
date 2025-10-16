@@ -51,6 +51,7 @@ Awesome Design Systems build with StencilJS.
 - [Klevu's brand new SDK](https://github.com/klevultd/frontend-sdk) - Monorepository for Klevu headless.
 - [SIX UI Library](https://github.com/six-group/six-webcomponents) - Ready to use Web Components in alignment with the SIX Corporate Styleguide.
 - [Swisscom Digitial eXperience](https://sdx.swisscom.com/) - The design system of the leading telecom provider in Switzerland, called "Swisscom Design eXperience".
+- [SNCF Design Systems](https://gitlab.com/SNCF/wcs) - The design systems for all companies within the SNCF group, the French national railway company.
 
 ## UI Libraries
 
