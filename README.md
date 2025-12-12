@@ -39,7 +39,6 @@ Awesome Design Systems build with StencilJS.
 
 - [Siemens Industrial Experience (iX)](https://github.com/siemens/ix) - Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.
 - [KoliBri](https://github.com/public-ui/kolibri) - KoliBri stands for "Component library for the accessibility" and was from the Informationstechnikzentrum Bund (ITZBund) open source released for reuse and further development.
-- [Calcite Design System](https://github.com/Esri/calcite-design-system) - Esri's Calcite Design System.
 - [Swiss Post Design System](https://github.com/swisspost/design-system) - The Swiss Post Design System pattern library for a unified and accessible user experience across the web platform.
 - [Duet Design System](https://github.com/duetds) - Duet provides a set of organized tools, patterns and practices that work as the foundation for LocalTapiola and Turva digital products and experiences.
 - [Scale](https://github.com/telekom/scale) - Scale is the digital design system for Telekom products and experiences.
