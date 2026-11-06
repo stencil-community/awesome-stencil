@@ -14,6 +14,7 @@ Inspired by the [awesome][0] list. Feel free to improve this list by [contributi
 - [Design Systems](#design-systems)
 - [UI Libraries](#ui-libraries)
 - [Components built with Stencil](#components-built-with-stencil)
+- [Companion Libraries](#companion-libraries)
 - [Plugins](#plugins)
 - [Starter Templates](#starter-templates)
 
@@ -72,6 +73,10 @@ Awesome Design Systems build with StencilJS.
 - [stencil-quill](https://github.com/KillerCodeMonkey/stencil-quill) - Native web components for the Quill Rich Text Editor built with Stencil.
 - [sketch-polls](https://github.com/partykit/sketch-polls) - Live poll web component.
 - [animate-presence](https://github.com/natemoo-re/animate-presence) - Effortless element entrance/exit animations.
+
+## Companion Libraries
+
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` custom element. Commercial with a 30-day trial.
 
 ## Plugins
 
